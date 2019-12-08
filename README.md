@@ -1,32 +1,21 @@
-## Assessment 4: Strategic Insights report (30%)
+# Assessment 4: Strategic Insights report (30%)
 ​
-### Assignment Content
+## Assignment Content
 ​
--------------------------------------------------------------------------------
-Name     **ASSESSMENT TASK 4: Strategic Insights Report**   
--------- ----------------------------------------------------------------------
-         This assessment addresses the following subject learning outcome(s):
+|             |                                                                   |
+|-------------|-------------------------------------------------------------------|
+| **Name:**   | Strategic Insights Report                                         |
+| **Type:**   | Written document and code submission                              |
+| **Issued:** | 8:00 PM AEST - Monday of Week 1                                   |
+| **Due:**    | 11:59 PM AEST - Wednesday of Week 7                               |
+| **Weight:** | 30%                                                               |
+| **Length:** | 2500 words +/-10% (written document, excluding code and output)   |
 
-		 - Understand how to deploy data science projects into production pipelines
-		 - Communicate effectively the results of the project in a strategic insights report.
-
-		 This assessment relates to the following work-based skill:
-		 
-		 - Undertake applied industry research.
-
-Type     Individual                                                         
- 
-Due      Wednesday 11 December week 7
- 
-Weight   30%
-------------------------------------------------------------------------------- 
-
-
-#### Overview
+## Overview
 
 The assessment requires the integration of information from Assessment 3 into a strategic insights report along with a high-level solution design for an end-to end pipeline to deploy your work in a production environment. It is important in this final report to demonstrate that you have grasped important concepts associated with difference aspects of data science learnt throughout the course (e.g. experimental design, visualisation, data analysis and interpretation).
 
-#### Task
+## Task
 
 Write an insights report that includes the following two documents, the Main body and Appendix.
 
